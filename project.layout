@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="font.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="492" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="31389" topLine="59" />
+		</Cursor>
+		<Folding>
+			<Collapse line="31" />
+			<Collapse line="37" />
+			<Collapse line="43" />
+			<Collapse line="51" />
+			<Collapse line="61" />
+			<Collapse line="72" />
+			<Collapse line="77" />
+			<Collapse line="81" />
+			<Collapse line="86" />
+			<Collapse line="148" />
+			<Collapse line="298" />
+			<Collapse line="327" />
+			<Collapse line="358" />
+			<Collapse line="497" />
+			<Collapse line="708" />
+			<Collapse line="953" />
+			<Collapse line="960" />
+			<Collapse line="1042" />
+			<Collapse line="1066" />
+			<Collapse line="1114" />
+			<Collapse line="1180" />
+		</Folding>
+	</File>
+	<File name="image.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="154" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="audio.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="audio.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="63" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="font.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="kb_input2.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="console_draw3.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="175" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
